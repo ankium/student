@@ -1,0 +1,21 @@
+2021-04-01 00:49:08.9046|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:8605
+2021-04-01 00:49:09.1241|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-01 00:49:09.1510|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-01 00:49:09.2068|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-01 00:49:44.5648|ERROR|StudentManagement.Controllers.HomeController|学生详情---错误（Error）Log
+2021-04-01 00:49:44.5839|FATAL|StudentManagement.Controllers.HomeController|学生详情---严重（Critical）Log
+2021-04-01 23:13:59.2914|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:26060
+2021-04-01 23:13:59.4618|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-01 23:13:59.4898|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-01 23:13:59.5335|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-01 23:14:10.0693|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-01 23:35:19.3174|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:44323
+2021-04-01 23:35:20.1382|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-01 23:35:20.1637|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-01 23:35:20.1882|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-01 23:36:31.9393|WARN|Microsoft.AspNetCore.Identity.UserManager|User password validation failed: PasswordTooShort;PasswordRequiresNonAlphanumeric;PasswordRequiresDigit;PasswordRequiresUpper.
+2021-04-01 23:37:38.4098|WARN|Microsoft.AspNetCore.Identity.UserManager|User password validation failed: PasswordRequiresLower.
+2021-04-01 23:43:57.2520|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:36159
+2021-04-01 23:43:57.4343|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-01 23:43:57.4530|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-01 23:43:57.4767|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement

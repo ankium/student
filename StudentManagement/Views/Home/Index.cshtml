@@ -1,0 +1,32 @@
+@using StudentManagement.Extensions
+@model IEnumerable<StudentManagement.Models.Student>
+@{
+    ViewBag.Title = "学生列表信息";
+}
+
+<div class="card-deck">
+    @foreach (var student in Model)
+    {
+        var photoPath = "~/images/avatars/" + (student.PhotoPath ?? "mim.jpg");
+        //var photoPath = "~/images/mim.jpg";
+        //if (student.PhotoPath!=null)
+        //{
+        //    photoPath = "~/images/avatars/" + student.PhotoPath;
+        //}
+        <div class="card m-3">
+            <div class="card-header">
+                <h4 class="card-title">@student.Name</h4>
+            </div>
+            <img src="@photoPath" alt="学生头像" class="card-img-top img-thumbnail" asp-append-version="true">
+            <div class="card-body text-center">
+                <h5 class="card-title">主修课目：@student.Major.GetDisplayName()</h5>
+            </div>
+            <div class="card-footer text-center">
+                    <a asp-controller="home" asp-action="details" asp-route-id="@student.Id" class="btn btn-primary">查看</a>
+                    <a asp-controller="home" asp-action="edit" asp-route-id="@student.Id" class="btn btn-primary">编辑</a>
+                    <a href="#" class="btn btn-danger">删除</a>
+            </div>
+        </div>
+    }
+
+</div>

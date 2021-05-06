@@ -1,0 +1,6 @@
+2021-04-02 23:55:16.0129|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:9536
+2021-04-02 23:55:16.2220|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-02 23:55:16.2781|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-02 23:55:16.3187|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-02 23:55:30.4347|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-02 23:58:03.7135|WARN|Microsoft.AspNetCore.Identity.UserManager|User password validation failed: PasswordTooShort;PasswordRequiresUniqueChars.

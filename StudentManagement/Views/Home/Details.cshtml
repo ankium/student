@@ -1,0 +1,37 @@
+@using StudentManagement.Extensions;
+@model StudentManagement.ViewModels.HomeDetailsViewModel;
+
+@{
+    ViewBag.Title = "你好"+Model.PageTitle;
+    var photoPath = "~/images/avatars/" + (Model.Student.PhotoPath ?? "mim.jpg");
+    //var photoPath = "~/images/mim.jpg";
+    //if (photoPath != null)
+    //{
+    //    photoPath = "~/images/avatars/" + Model.Student.PhotoPath;
+    //}
+}
+
+<div class="row justify-content-center m-3">
+    <div class="col-sm-6">
+        <div class="card">
+            <div class="card-header">
+                <h2>@Model.Student.Name</h2>
+            </div>
+            <div class="card-body text-center">
+                <img src="@photoPath" alt="学生头像" class="card-img-top" asp-append-version="true">
+                <div>学号:@Model.Student.Id</div>
+                <div>课目:@Model.Student.Major.GetDisplayName()</div>
+                <div>邮箱:@Model.Student.Email</div>
+            </div>
+            <div class="card-footer text-center">
+                 <a asp-action="index" asp-controller="home" class="btn btn-primary">返回</a>
+                 <a asp-controller="home" asp-action="edit" asp-route-id="@Model.Student.Id" class="btn btn-primary">编辑</a>
+                 <a href="#" class="btn btn-danger">删除</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/myscript.js"></script>
+}

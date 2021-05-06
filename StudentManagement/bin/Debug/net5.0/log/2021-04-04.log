@@ -1,0 +1,128 @@
+2021-04-04 00:20:14.6506|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:2084
+2021-04-04 00:20:14.7677|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 00:20:14.8319|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 00:20:14.8459|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 00:38:32.3207|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:34613
+2021-04-04 00:38:32.4965|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 00:38:32.5128|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 00:38:32.5670|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 00:40:09.5812|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:12969
+2021-04-04 00:40:09.6963|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 00:40:09.7247|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 00:40:09.7426|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 00:41:10.7937|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:42553
+2021-04-04 00:41:11.0095|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 00:41:11.0233|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 00:41:11.0407|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 00:41:53.5208|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user.
+2021-04-04 00:41:53.5381|WARN|Microsoft.AspNetCore.Identity.SignInManager|User failed to provide the correct password.
+2021-04-04 00:42:27.2778|WARN|Microsoft.AspNetCore.Identity.UserManager|User validation failed: DuplicateUserName.
+2021-04-04 00:42:44.2513|WARN|Microsoft.AspNetCore.Identity.UserManager|User validation failed: DuplicateUserName.
+2021-04-04 00:49:45.3141|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:11147
+2021-04-04 00:49:45.4967|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 00:49:45.5433|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 00:49:45.5557|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 01:08:23.1171|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:28495
+2021-04-04 01:08:23.2995|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 01:08:23.3317|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 01:08:23.3514|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 01:11:29.9132|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:5784
+2021-04-04 01:11:30.2182|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 01:11:30.2437|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 01:11:30.2908|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 01:13:27.3496|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:32635
+2021-04-04 01:13:27.5012|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 01:13:27.5648|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 01:13:27.5648|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 01:20:39.0599|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:11574
+2021-04-04 01:20:39.4289|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 01:20:39.5063|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 01:20:39.5311|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 21:53:53.3322|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:5924
+2021-04-04 21:53:53.5172|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 21:53:53.5452|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 21:53:53.5634|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 21:54:41.9093|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 22:17:18.0612|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:25978
+2021-04-04 22:17:18.2195|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 22:17:18.2416|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 22:17:18.2762|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 22:17:55.5985|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user.
+2021-04-04 22:17:55.6190|WARN|Microsoft.AspNetCore.Identity.SignInManager|User failed to provide the correct password.
+2021-04-04 22:18:05.3887|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 22:18:43.8604|WARN|Microsoft.AspNetCore.Identity.RoleManager|Role db7a560f-d84f-460c-8833-560e7f6bd168 validation failed: DuplicateRoleName.
+2021-04-04 22:37:41.8395|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:21832
+2021-04-04 22:37:42.0115|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 22:37:42.0282|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 22:37:42.0617|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 22:38:05.8718|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 22:38:38.0571|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/Amdin/CreateRole 以及查询字符串=
+2021-04-04 22:39:36.7092|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/Amdin/CreateRole 以及查询字符串=
+2021-04-04 22:39:57.4777|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/Amdin/CreateRole 以及查询字符串=
+2021-04-04 22:41:16.3049|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:43495
+2021-04-04 22:41:16.5039|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 22:41:16.5333|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 22:41:16.5665|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 22:42:02.3877|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 22:45:52.8079|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:11824
+2021-04-04 22:45:52.9580|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 22:45:52.9870|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 22:45:53.0037|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 22:46:00.2093|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 22:46:31.5376|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/create/listroles 以及查询字符串=
+2021-04-04 22:48:43.4495|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:17639
+2021-04-04 22:48:43.6392|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 22:48:43.6609|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 22:48:43.7245|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 22:48:52.8515|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 23:40:58.0550|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:34947
+2021-04-04 23:40:58.2078|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 23:40:58.2254|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 23:40:58.2599|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 23:41:06.9850|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 23:41:22.3596|ERROR|Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware|An unhandled exception has occurred while executing the request.
+2021-04-04 23:41:22.5883|ERROR|StudentManagement.Controllers.ErrorController|路径/admin/editrole/1b42764d-1a57-4caf-bc22-569332c3ff18产生了壹个错误System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
+   at AspNetCore.Views_Admin_EditRole.<ExecuteAsync>b__20_0() in D:\Core\StudentManagement\StudentManagement\Views\Admin\EditRole.cshtml:line 35
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.GetChildContentAsync(Boolean useCachedResult, HtmlEncoder encoder)
+   at Microsoft.AspNetCore.Mvc.TagHelpers.RenderAtEndOfFormTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCore.Views_Admin_EditRole.ExecuteAsync() in D:\Core\StudentManagement\StudentManagement\Views\Admin\EditRole.cshtml:line 2
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.StatusCodePagesMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2021-04-04 23:44:50.2134|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:9313
+2021-04-04 23:44:50.4030|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 23:44:50.4282|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 23:44:50.4602|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 23:44:57.6389|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 23:50:10.7067|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:12860
+2021-04-04 23:50:10.9083|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 23:50:10.9405|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 23:50:10.9637|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 23:50:18.9795|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-04 23:53:34.2471|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:43535
+2021-04-04 23:53:34.4211|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-04 23:53:34.4431|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-04 23:53:34.4627|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-04 23:53:41.3064|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=

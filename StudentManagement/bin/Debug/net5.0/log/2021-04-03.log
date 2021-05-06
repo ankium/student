@@ -1,0 +1,143 @@
+2021-04-03 00:19:07.9770|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:12664
+2021-04-03 00:19:09.8301|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:19:09.8566|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:19:09.8996|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 00:19:27.1898|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:19:27.1898|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:19:27.3504|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:19:27.3748|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:19:27.5505|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:19:27.5707|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:19:41.8771|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:19:41.9108|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:19:41.9276|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:19:41.9702|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:19:42.0427|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:19:42.0952|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:27:21.8673|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:42525
+2021-04-03 00:27:22.0522|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:27:22.0722|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:27:22.0853|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 00:27:40.1994|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:27:40.4653|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:27:42.4051|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:27:42.4560|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:27:42.7795|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:27:42.8065|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:28:32.0545|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:28:33.0483|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:28:33.0763|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:28:33.2334|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:28:33.2757|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:28:33.2955|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:28:36.1646|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:28:37.1032|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:28:37.3233|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:28:37.3528|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:28:37.3379|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:28:37.3731|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:28:38.6271|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 00:31:14.5891|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:14017
+2021-04-03 00:31:14.8015|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:31:14.8303|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:31:14.8553|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 00:31:27.6196|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:31:27.6196|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:31:27.6196|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:31:27.7303|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:31:27.7536|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:31:27.7751|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:32:23.0432|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:8820
+2021-04-03 00:32:23.2412|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:32:23.2846|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:32:23.3109|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 00:32:35.7423|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:32:35.7423|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:32:35.7518|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:32:35.7518|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:32:35.9450|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:32:35.9688|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:34:48.4740|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:3120
+2021-04-03 00:34:48.7371|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:34:48.7585|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:34:48.7994|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 00:35:40.6678|ERROR|StudentManagement.Controllers.HomeController|学生详情---错误（Error）Log
+2021-04-03 00:35:40.6860|FATAL|StudentManagement.Controllers.HomeController|学生详情---严重（Critical）Log
+2021-04-03 00:36:24.7881|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:47291
+2021-04-03 00:36:25.0867|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:36:25.1156|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:36:25.1455|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 00:36:37.9083|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/e0b8fa0c-4a4a-451d-b445-84da2f536f20_6.jpg 以及查询字符串=
+2021-04-03 00:36:37.9197|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/fd14bff1-899b-4230-a192-f8bba2848eef_5.jpg 以及查询字符串=
+2021-04-03 00:36:37.9197|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/b37348b8-14bc-4d40-b293-cc818e9e4663_1.jpg 以及查询字符串=
+2021-04-03 00:36:37.9197|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/2b8e609d-1fb4-414a-a7f2-1fccc0856a5b_2.jpg 以及查询字符串=
+2021-04-03 00:36:38.0309|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/750e1fbf-6d5f-4edf-9fca-b50f12f0bb8a_3.jpg 以及查询字符串=
+2021-04-03 00:36:38.0309|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/~/images/avatars/15d945c2-8e5f-4c7b-9c3a-a87bc220adf4_4.jpg 以及查询字符串=
+2021-04-03 00:38:00.9475|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:18615
+2021-04-03 00:38:01.1198|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 00:38:01.1430|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 00:38:01.1802|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:18:08.3106|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:26371
+2021-04-03 22:18:08.5037|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:18:08.5247|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:18:08.5943|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:18:22.9263|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 22:18:43.8378|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user.
+2021-04-03 22:18:43.8528|WARN|Microsoft.AspNetCore.Identity.SignInManager|User failed to provide the correct password.
+2021-04-03 22:22:45.4320|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:22335
+2021-04-03 22:22:45.5917|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:22:45.6157|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:22:45.6319|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:22:56.3349|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 22:25:47.5337|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:7352
+2021-04-03 22:25:47.6659|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:25:47.6838|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:25:47.7009|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:26:02.1643|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 22:30:32.8054|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:2872
+2021-04-03 22:30:33.1552|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:30:33.1735|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:30:33.2120|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:30:50.7353|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 22:34:02.9523|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:24102
+2021-04-03 22:34:03.1615|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:34:03.1873|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:34:03.2074|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:34:20.3216|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 22:52:02.3074|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:6386
+2021-04-03 22:52:02.4679|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:52:02.4898|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:52:02.5215|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:55:44.4552|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:26140
+2021-04-03 22:55:44.5970|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:55:44.6195|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:55:44.6697|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:57:26.2097|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:40033
+2021-04-03 22:57:26.3892|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:57:26.4102|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:57:26.4315|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:58:11.3310|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:21240
+2021-04-03 22:58:11.5132|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:58:11.5292|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:58:11.5451|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:58:24.9260|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 22:59:29.0112|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:17321
+2021-04-03 22:59:29.3110|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 22:59:29.3377|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 22:59:29.3948|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 22:59:42.0893|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 23:13:06.4407|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:2030
+2021-04-03 23:13:06.6310|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 23:13:06.6533|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 23:13:06.6736|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 23:13:33.7983|WARN|StudentManagement.Controllers.ErrorController|发生了404错误，路径=/favicon.ico 以及查询字符串=
+2021-04-03 23:16:02.1403|ERROR|StudentManagement.Controllers.HomeController|学生详情---错误（Error）Log
+2021-04-03 23:16:02.1587|FATAL|StudentManagement.Controllers.HomeController|学生详情---严重（Critical）Log
+2021-04-03 23:47:13.8105|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:4059
+2021-04-03 23:47:14.0693|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 23:47:14.0973|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 23:47:14.0973|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement
+2021-04-03 23:49:14.2978|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://127.0.0.1:36196
+2021-04-03 23:49:14.4731|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-04-03 23:49:14.4889|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Product
+2021-04-03 23:49:14.5034|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\Core\StudentManagement\StudentManagement

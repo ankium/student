@@ -1,0 +1,23 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+namespace StudentManagement.Migrations
+{
+    public partial class AlterStudentsSeedNewData : Migration
+    {
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.InsertData(
+                table: "Students",
+                columns: new[] { "Id", "Email", "Major", "Name" },
+                values: new object[] { 3, "admin@msn.cn", 4, "小胡" });
+        }
+
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DeleteData(
+                table: "Students",
+                keyColumn: "Id",
+                keyValue: 3);
+        }
+    }
+}
